@@ -35,3 +35,37 @@ Jan 31, 2026 11:20:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancella
 WARNING: Unmatched cancel notification for request id 28
 2026.01.31 11:20:02 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
 2026.01.31 11:20:10 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:20:28 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:20:29 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:22:59 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:11 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:11 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+Jan 31, 2026 11:42:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40
+2026.01.31 11:42:13 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:13 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:14 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:14 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:14 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:14 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:15 WARN  no build target for: C:\Users\hp\Desktop\learn\first.java
+2026.01.31 11:42:15 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:16 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:16 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:16 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:16 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:16 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:16 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:16 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:16 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:17 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:17 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:17 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:17 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:18 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:17 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+2026.01.31 11:42:18 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
+Jan 31, 2026 11:42:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 66
+2026.01.31 11:42:19 WARN  no build target for: C:\Users\hp\Desktop\learn\first.java
+2026.01.31 11:42:19 INFO  no build target found for C:\Users\hp\Desktop\learn\first.java. Using fallback presentation compiler.
